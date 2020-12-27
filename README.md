@@ -4,9 +4,13 @@ A python programme to automate "Changing MAC" If you are into ethical Hacking th
 Requirments are 
 Python3 or higher
 Modules of python listed below:
+
+
 subprocess
 optparse
 re
+
+
 To use it just enter the command in you'r linux computer.
 before that cd into the  directory where you have stored the script.
 for non-root for root users remove 'sudo'
