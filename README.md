@@ -16,9 +16,9 @@ re
 
   \\pip install module name.\\
 
-To use it just enter the command in you'r linux computer.
+To use it just enter the command in you'r linux terminal.
 before that cd into the  directory where you have stored the script.
-for root users remove 'sudo' from the command
+for the root users remove 'sudo' from the command
 
 
 sudo python MAC_changer.py -i "Interface" -m "Desired MAC"
