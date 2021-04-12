@@ -13,7 +13,8 @@ optparse
 
 
 re
-  \\pip install module name.
+
+  \\pip install module name.\\
 
 To use it just enter the command in you'r linux computer.
 before that cd into the  directory where you have stored the script.
